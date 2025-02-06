@@ -1,2 +1,2 @@
 # Amit Kumar Shaw
-!(/assets/images/worldimage.jpg)
+!(shaw-amit.github.io/worldimage.jpg)
