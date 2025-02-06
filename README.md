@@ -1,2 +1,2 @@
 # Amit Kumar Shaw
-![](shaw-amit.github.io/worldimage.jpg)
+![Alt text](worldimage.jpg)
